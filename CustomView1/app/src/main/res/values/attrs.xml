@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CumtomView1">
+        <attr name="MainBackGround" format="color|reference">
+
+        </attr>
+        <attr name="RectBackGround1" format="color|reference">
+
+        </attr>
+        <attr name="RectBackGround2" format="color|reference">
+
+        </attr>
+    </declare-styleable>
+</resources>

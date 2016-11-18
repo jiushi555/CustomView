@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <xml.org.customview1.CumtomView
+        android:layout_marginTop="100dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        custom:MainBackGround="@android:color/black"
+        custom:RectBackGround1="@android:color/holo_orange_light"
+        custom:RectBackGround2="@android:color/holo_blue_dark"
+        />
+
+</LinearLayout>
