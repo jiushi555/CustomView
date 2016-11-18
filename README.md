@@ -23,3 +23,6 @@
 ### 他的样子：
 ![](https://github.com/jiushi555/CustomView/raw/master/CustomTimepiece/timepiece_ys.jpg)<br/>
 在这个自定控件中主要是通过画布坐标系的移动和旋转完成绘制的。同时view没过1s刷新一次，实现秒针走动的样式，分针展示没有实现走动。
+## MyEditText:
+这是我做的一个带有删除按钮文本输入框，当文本框中的有文字的时候，会弹出删除按钮，当文本框中没有文字的时候，删除按钮会消失。
+
